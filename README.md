@@ -1,4 +1,5 @@
 ## **CREWAI-AGENTS: AI-Powered Procurement Assistant** 🛒🤖
+![GitHub Repo stars](https://img.shields.io/github/stars/ahmedali703/CREWAI-AGENTS?style=social)
 
 ### **Overview**
 **CREWAI-AGENTS** is an AI-powered procurement assistant that helps businesses find, compare, and recommend products from various e-commerce websites. This system leverages **CrewAI**, **Flask**, and several AI models to automate the procurement process and generate detailed comparison reports.
