@@ -1,0 +1,7 @@
+__pycache__/
+ai_env/
+ai-agent-output/
+.env 
+!.env.local.example  
+echo "API.txt" >> .gitignore
+echo "run.txt" >> .gitignore
